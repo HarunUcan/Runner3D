@@ -7,7 +7,7 @@
 -  Sağ : D / Sağ Ok Tuşu
 -  Yuvarlanma : S / Aşağı Ok Tuşu
 -  Zıpladıktan sonra havadayken yuvarlanma tuşlarından birine basarsanız zemine doğru dash atacaktır.
--  
+  
 - Oyunu bu linkten indirebilirsiniz : https://drive.google.com/file/d/1ezQ7V28EYCU-xDpTIIEZP9I0o6fEj-Nw/view?usp=sharing  
 
 
