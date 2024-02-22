@@ -8,8 +8,9 @@
 -  Yuvarlanma : S / Aşağı Ok Tuşu
 - Oyunu bu linkten indirebilirsiniz : https://drive.google.com/file/d/1ezQ7V28EYCU-xDpTIIEZP9I0o6fEj-Nw/view?usp=sharing
 
+   
 
-- Ekran Görüntüleri:
+-Ekran Görüntüleri:
 
 ![Ekran görüntüsü 2024-02-23 015252](https://github.com/HarunUcan/Runner3D/assets/129796812/bad72a4b-cafe-456c-9281-9dec059b030b)
 
